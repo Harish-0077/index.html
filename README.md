@@ -135,7 +135,7 @@ ul{margin-left:20px;font-size:18px;}
 <div class="slide">
 <h1>DevOps Explained Using MANET Concepts</h1>
 <p>Understanding modern DevOps practices through Mobile Ad-hoc Network principles.</p>
-<img src="images/img1.png">
+<img src="images/img1.jpg.jpg">
 <div class="nav"><label for="s2">Next →</label></div>
 </div>
 
